@@ -19,7 +19,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Installed Ansible on the control node.
 - Verified the installation.
 
-![Ansible Installation](screenshots/01-ansible-installation.png)
+![Ansible Installation](screenshot/01-ansible-installation.png)
 
 ---
 
@@ -28,7 +28,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Configured the managed node.
 - Enabled SSH communication between the control node and managed node.
 
-![Managed Node](screenshots/02-managed-node-setup.png)
+![Managed Node](screenshot/02-managed-node-setup.png)
 
 ---
 
@@ -37,7 +37,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Created the Ansible inventory.
 - Added managed node details.
 
-![Inventory Configuration](screenshots/03-inventory-configuration.png)
+![Inventory Configuration](screenshot/03-inventory-configuration.png)
 
 ---
 
@@ -46,7 +46,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Verified SSH communication.
 - Tested connectivity using Ansible ping.
 
-![SSH Connectivity](screenshots/04-ssh-connectivity.png)
+![SSH Connectivity](screenshot/04-ssh-connectivity.png)
 
 ---
 
@@ -55,7 +55,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Executed Ansible playbooks.
 - Automated package installation and configuration tasks.
 
-![Playbook Execution](screenshots/05-playbook-execution.png)
+![Playbook Execution](screenshot/05-playbook-execution.png)
 
 ---
 
@@ -64,7 +64,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Installed and managed the Nginx service.
 - Verified successful deployment.
 
-![Nginx Deployment](screenshots/06-nginx-deployment.png)
+![Nginx Deployment](screenshot/06-nginx-deployment.png)
 
 ---
 
@@ -73,7 +73,7 @@ Automate server configuration using Ansible instead of performing repetitive man
 - Generated dynamic configuration using Jinja2 templates.
 - Organized automation using Ansible Roles.
 
-![Role Execution](screenshots/08-role-execution.png)
+![Role Execution](screenshot/08-role-execution.png)
 
 ---
 
